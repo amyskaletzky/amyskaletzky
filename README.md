@@ -1,8 +1,8 @@
 # Hello, I'm Amy! 👋
 
-🌍 Multicultural self-learner with a passion for women's rights.
-🏡 Lived in Indonesia, Israel, and Norway.
-💼 Full Stack Developer | Tech aligned with values | Hoping to contribute to our society through coding
+🌍 Multicultural self-learner with a passion for women's rights.\
+🏡 Lived in Indonesia, Israel, and Norway.\
+💼 Full Stack Developer | Tech aligned with values | Hoping to contribute to our society through coding\
 
 ## About Me
 
