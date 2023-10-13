@@ -2,7 +2,7 @@
 
 🌍 Multicultural self-learner with a passion for women's rights.\
 🏡 Lived in Indonesia, Israel, and Norway.\
-💼 Full Stack Developer | Seeking to make a meaningful coding contribution to our society\
+💼 Full Stack Developer | Seeking to make meaningful coding contributions to our society\
 🔭 Currently involved in multiple projects, one addressing the issue of human loneliness, and another, in collaboration with educational institutions, streamlining attendance tracking processes.
 ## About Me
 
