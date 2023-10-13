@@ -1,4 +1,3 @@
-### Hi there 👋
 # Hello, I'm Amy! 👋
 
 🌍 Multicultural self-learner with a passion for women's rights.
