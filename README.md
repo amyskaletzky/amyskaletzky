@@ -10,7 +10,7 @@ I have a diverse cultural background, having lived in three different countries 
 
 ## Skills
 
-React.js | Node.js | JavaScript | PostgreSQL | MongoDB | AWS | React-Native | RESTful API | Google Firebase | Redux | Tailwind CSS | Google Cloud Functions | Docker | Serverless | CI/CD via Express.js | Git | Sequelize | Bootstrap | Linux
+React.js | Node.js | JavaScript | PostgreSQL | MongoDB | AWS | React-Native | RESTful API | Google Firebase | Redux | Tailwind CSS | Google Cloud Functions | Docker | Serverless | CI/CD via Express.js | Git | Sequelize | Bootstrap | Linux | Github Actions
 
 ## Interests
 
