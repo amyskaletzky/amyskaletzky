@@ -3,7 +3,7 @@
 🌍 Multicultural self-learner with a passion for women's rights.\
 🏡 Lived in Indonesia, Israel, and Norway.\
 💼 Full Stack Developer | Seeking to make a meaningful coding contribution to our society\
-🔭 I'm currently involved in multiple projects, one addressing the issue of human loneliness, and another, in collaboration with educational institutions, streamlining attendance tracking processes.
+🔭 Currently involved in multiple projects, one addressing the issue of human loneliness, and another, in collaboration with educational institutions, streamlining attendance tracking processes.
 ## About Me
 
 I have a diverse cultural background, having lived in three different countries and being of mixed heritage. My journey, combined with my homeschooling background has fostered my self-learning abilities and ignited my determination to empower women and promote equality, and human rights in general. Always interested in taking on a challenge.
