@@ -21,7 +21,7 @@ I'm a tech enthusiast with a diverse cultural background, having lived in three 
 
 ## Interests
 
-I really enjoy the arts, and being out in nature. So hiking, playing piano and guitar, drawing, painting, pottery, candle-making, are all examples of what I love to do in my free time. Furthermore, I'm deeply passionate about women's and human rights, and the intersection of technology and social impact. My experiences have taught me the importance of promoting awareness and driving change in diverse communities.
+I really enjoy the arts, and being out in nature. So hiking, playing piano and guitar, drawing, painting, pottery, candle-making, are all examples of what I love to do in my free time. Furthermore, I'm deeply passionate about the intersection of technology and social impact. My experiences have taught me the importance of promoting awareness and driving change in diverse communities.
 
 ## Let's Connect
 
